@@ -9,8 +9,8 @@
     "https://dbstore.sourceforge.net"
   ],
   "showNEWEST": 1,
-  "showLIVE": 1,
+  "showLIVE": 0,
   "showPOPULAR": 1,
   "showEDITOR_CHOICE": 1,
-  "initialCategoryTab": 1
+  "initialCategoryTab": 0
 }
