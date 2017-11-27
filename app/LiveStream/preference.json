@@ -1,5 +1,4 @@
 {
-  "initialCategoryTab": 1, 
   "showBanner": 1, 
   "introUrl":"https://dbstore.sourceforge.io/livestream/introUrl.php",
   "adsType": 1,
@@ -9,8 +8,9 @@
     "https://dbstore.000webhost.com", 
     "https://dbstore.sourceforge.net"
   ],
-  "LIVE": 1,
-  "NEWEST": 1,
-  "POPULAR": 1,
-  "EDITOR_CHOICE": 1
+  "showNEWEST": 1,
+  "showLIVE": 1,
+  "showPOPULAR": 1,
+  "showEDITOR_CHOICE": 1,
+  "initialCategoryTab": 1
 }
