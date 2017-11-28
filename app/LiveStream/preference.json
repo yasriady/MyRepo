@@ -16,7 +16,7 @@
   "initialCategoryTab": 1,
   "imageSliderDuration": 1750,
   "imageSliderShowDescription": 1,
-  "youtubeThumbnail": "http://i3.ytimg.com/vi/{videoId}/default.jpg"
+  "youtubeThumbnail": "http://i3.ytimg.com/vi/{videoId}/hqdefault.jpg"
   
 }
 
