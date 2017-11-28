@@ -13,5 +13,6 @@
   "showPOPULAR": 1,
   "showEDITOR_CHOICE": 1,
   "showSEARCH": 1,
-  "initialCategoryTab": 1
+  "initialCategoryTab": 1,
+  "ImageSliderDuration": 7000
 }
