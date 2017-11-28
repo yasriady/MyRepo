@@ -12,7 +12,7 @@
   "showLIVE": 1,
   "showPOPULAR": 1,
   "showEDITOR_CHOICE": 1,
-  "showSEARCH": 1,
+  "showSEARCH": 0,
   "initialCategoryTab": 1,
   "imageSliderDuration": 7050,
   "imageSliderShowDescription": 1,
