@@ -14,7 +14,7 @@
   "showEDITOR_CHOICE": 1,
   "showSEARCH": 1,
   "initialCategoryTab": 1,
-  "imageSliderDuration": 1750,
+  "imageSliderDuration": 7050,
   "imageSliderShowDescription": 1,
   "youtubeThumbnail": "http://i3.ytimg.com/vi/{videoId}/0.jpg"
 }
