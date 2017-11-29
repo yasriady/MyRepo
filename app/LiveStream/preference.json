@@ -1,6 +1,6 @@
 {
   "x_showBanner": true, 
-  "introUrl":"https://dbstore.sourceforge.io/livestream/introUrl.php",
+  "x_introUrl":"https://dbstore.sourceforge.io/livestream/introUrl.php",
   "adsType": 1,
   "srvList": [
     "https://dbstore.sourceforge.io",
