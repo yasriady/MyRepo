@@ -3,8 +3,8 @@
   "x_introUrl":"https://dbstore.sourceforge.io/livestream/introUrl.php",
   "adsType": 1,
   "srvList": [
-    "https://dbstore.sourceforge.io",
     "http://192.168.43.117",
+    "https://dbstore.sourceforge.io",
     "https://dbstore.000webhost.com", 
     "https://dbstore.sourceforge.net"
   ],
