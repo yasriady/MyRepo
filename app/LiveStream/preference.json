@@ -1,5 +1,5 @@
 {
-  "showBanner": 1, 
+  "x_showBanner": true, 
   "introUrl":"https://dbstore.sourceforge.io/livestream/introUrl.php",
   "adsType": 1,
   "srvList": [
@@ -8,14 +8,14 @@
     "https://dbstore.000webhost.com", 
     "https://dbstore.sourceforge.net"
   ],
-  "showNEWEST": 1,
-  "showLIVE": 1,
-  "showPOPULAR": 1,
-  "showEDITOR_CHOICE": 1,
-  "showSEARCH": 1,
-  "showMORE_USTADZ": 1,
+  "showNEWEST": true,
+  "showLIVE": true,
+  "showPOPULAR": true,
+  "showEDITOR_CHOICE": true,
+  "showSEARCH": true,
+  "showMORE_USTADZ": true,
   "initialCategoryTab": 1,
   "imageSliderDuration": 7050,
-  "imageSliderShowDescription": 0,
+  "imageSliderShowDescription": false,
   "youtubeThumbnail": "http://i3.ytimg.com/vi/{videoId}/0.jpg"
 }
