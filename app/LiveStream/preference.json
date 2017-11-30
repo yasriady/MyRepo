@@ -9,6 +9,7 @@
     "https://dbstore.000webhost.com", 
     "https://dbstore.sourceforge.net"
   ],
+  "showHOME": true,
   "showNEWEST": true,
   "showLIVE": true,
   "showPOPULAR": true,
