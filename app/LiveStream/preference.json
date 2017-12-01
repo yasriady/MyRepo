@@ -1,7 +1,7 @@
 {
   "x_showBanner": true, 
   "x_introUrl":"https://dbstore.sourceforge.io/livestream/introUrl.php",
-  "adsType": 1,
+  "adsType": 0,
   "srvList": [
     "http://192.168.43.15",
     "http://192.168.43.117",
