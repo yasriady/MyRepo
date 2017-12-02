@@ -10,13 +10,13 @@
     "https://dbstore.sourceforge.net"
   ],
   "showHOME": true,
-  "showNEWEST": true,
+  "showNEWEST": false,
   "showLIVE": true,
   "showPOPULAR": true,
-  "showEDITOR_CHOICE": true,
-  "showSEARCH": true,
+  "showEDITOR_CHOICE": false,
+  "showSEARCH": false,
   "showMORE_USTADZ": true,
-  "initialCategoryTab": 1,
+  "initialCategoryTab": 0,
   "imageSliderDuration": 7050,
   "imageSliderShowDescription": false,
   "youtubeThumbnail": "http://i3.ytimg.com/vi/{videoId}/0.jpg"
