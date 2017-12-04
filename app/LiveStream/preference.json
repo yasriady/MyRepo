@@ -1,5 +1,6 @@
 {
-  "versionName":"1.0",
+  "versionName" : "2.0",
+  "updateUrl" : "",
   "x_showBanner": true, 
   "x_introUrl":"https://dbstore.sourceforge.io/livestream/introUrl.php",
   "adsType": 0,
